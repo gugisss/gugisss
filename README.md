@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gugisss
+- 👀 I’m interested in programming world
+- 🌱 I’m currently learning about new languages
+- 📫  How to reach me just send me an email at gustavofernandesmalaquias@gmail.com
