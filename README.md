@@ -34,18 +34,12 @@ object **SEU NOME** {
 
 ## Status
 
-<a href="https://github.com/gugisss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
+ [![card](https://github-readme-stats.vercel.app/api?username=gugisss&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/gugisss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gugisss&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)/>
 </a>
 
-[linkedin]: [https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/gustavo-fernandes-90023826a/)
 
 <br>
-
-## Rede sociais
-
-👔 [LinkedIn][linkedin]
