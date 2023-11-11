@@ -36,7 +36,7 @@ object **SEU NOME** {
 
  [![card](https://github-readme-stats.vercel.app/api?username=gugisss&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gugisss&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)/>
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gugisss&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
