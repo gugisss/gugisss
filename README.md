@@ -1,7 +1,11 @@
-👋 Hi, I’m @gugisss
+👋 Hi, I’m @gugisss 
+
 👀 I’m interested in learn more about new languages
+
 🌱 I’m currently having introductions about the course
+
 📫 How to reach me just send me an email at gustavofernandesmalaquias@gmail.com
+
 
 ## Mais sobre mim
 
